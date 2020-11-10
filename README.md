@@ -8,7 +8,7 @@
 
 <br />
 
-» 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚂𝚝𝚛𝚎𝚊𝚖 𝙿𝚊𝚌𝚔𝚊𝚐𝚎 𝚏𝚘𝚛 𝙽𝙿𝙼 𝚌𝚊𝚕𝚕𝚎𝚍 <a href="https://github.com/DevCassie/Castoe-Logger" style="color: #98CBD6">𝙲𝚊𝚜𝚝𝚘𝚎 𝙻𝚘𝚐𝚐𝚎𝚛</a>
+» 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚂𝚝𝚛𝚎𝚊𝚖 𝙿𝚊𝚌𝚔𝚊𝚐𝚎 𝚏𝚘𝚛 𝙽𝙿𝙼 𝚌𝚊𝚕𝚕𝚎𝚍 <a href="https://github.com/DevCassie/Castoe-Streamer" style="color: #98CBD6">𝙲𝚊𝚜𝚝𝚘𝚎 Streamer</a>
 
 » 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚁𝚎𝚊𝚌𝚝 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚝𝚜𝚎𝚕𝚏.
 
