@@ -1,6 +1,11 @@
-# Pleasure to meet you 👋!
-![[LinkedIn Card]](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5&link=https://www.linkedin.com/in/cas-martens/)
-![[Behance Card]](https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=Behance&logoColor=white&color=1769FF&link=https://www.behance.net/casmartens)
+# Hey, I'm Cas!
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <a href="https://www.linkedin.com/in/cas-martens/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="cas-martens" height="30" /></a>
+  <a href="https://www.behance.net/casmartens" target="blank"><img align="left" src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=Behance&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
+  <a href="https://www.instagram.com/cassieboy_2001/" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
+  <a href="mailto:devcassie@outlook.com" target="blank"><img align="left" src="https://img.shields.io/badge/Mail%20me-informational?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&color=0078D4" alt="casmartens" height="30" /></a>
+</div>
+<br>
 
 ## Introduction
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devcassie&color=blue" alt="viraldevpb" /></p>
@@ -36,9 +41,3 @@ On the more personal side. My pronounces are he and him, don't let that nickname
 ![[Adobe Illustrator Card]](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white&color=FF9A00)
 ![[Adobe After Effects Card]](https://img.shields.io/badge/Adobe-After%20Effects-informational?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&color=9999FF)
 ![[Adobe XD Card]](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=Adobe%20XD&logoColor=white&color=FF61F6)
-
-<br>
-
-<!-- ## Social Media
-<a href="https://www.linkedin.com/in/cas-martens/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="cas-martens" height="30" width="40" /></a>
-<a href="https://www.behance.net/casmartens" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="casmartens" height="30" width="40" /></a> -->
