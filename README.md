@@ -1,4 +1,6 @@
 # Pleasure to meet you 👋!
+![[LinkedIn Card]](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5&link=https://www.linkedin.com/in/cas-martens/)
+![[Behance Card]](https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=Behance&logoColor=white&color=1769FF&link=https://www.behance.net/casmartens)
 
 ## Introduction
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devcassie&color=blue" alt="viraldevpb" /></p>
@@ -37,6 +39,6 @@ On the more personal side. My pronounces are he and him, don't let that nickname
 
 <br>
 
-## Social Media
+<!-- ## Social Media
 <a href="https://www.linkedin.com/in/cas-martens/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="cas-martens" height="30" width="40" /></a>
-<a href="https://www.behance.net/casmartens" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="casmartens" height="30" width="40" /></a>
+<a href="https://www.behance.net/casmartens" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="casmartens" height="30" width="40" /></a> -->
