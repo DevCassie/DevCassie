@@ -1,29 +1,35 @@
-# Hey, I'm Cas!
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<p align="center">
+  <img src="./assets/Github-banner.gif">
+</p>
+
+<div>
   <a href="https://www.linkedin.com/in/cas-martens/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="cas-martens" height="30" /></a>
   <a href="https://www.behance.net/casmartens" target="blank"><img align="left" src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=Behance&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
   <a href="https://www.instagram.com/cassieboy_2001/" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
   <a href="mailto:devcassie@outlook.com" target="blank"><img align="left" src="https://img.shields.io/badge/Mail%20me-informational?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&color=0078D4" alt="casmartens" height="30" /></a>
 </div>
-<br>
+
+<br> <br>
 
 ## Introduction
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devcassie&color=blue" alt="viraldevpb" /></p>
-I'm a 19 year old media design student with a passion for both design and development. I mainly do JavaScript, but I'm always trying to learn more. 
-
-I'm currently working on a big project which is not open source, but a side project which is going to be used within that big project is open source. That sideproject is called [Castoe Streamer](https://github.com/DevCassie/Castoe-Streamer).
-
-[![Castoe Streamer](https://github-readme-stats.vercel.app/api/pin/?username=devcassie&repo=castoe-streamer)](https://github.com/devcassie/castoe-streamer)
-
-<br>
-
-Alongside that I've also created my own Visual Studio Code color theme. Which is at it's first release. The theme is called Darkio and can be found [here](https://marketplace.visualstudio.com/items?itemName=CasMartens.darkio).
+<p>
+I'm a 19 year old media design student with a passion for combining design and development into a project. I'm  mainly interested in web design and development. However anything else along the way that grabs my interest is welcome in every way. In my free time I enjoy learning more about Node.JS by creating projects. <br> <br>
+One of those projects is called Castoe which is a Closed Source Discord Bot. This bot contains many features that can eventually be turned on or off with a web-dashboard that's written in ReactJS. However, since the bot itself is closed source, I've decided to create a small npm package which is open source. The open source npm package is called <a href="https://github.com/DevCassie/Castoe-Streamer">Castoe Streamer</a>. It's a logging utility to visually change the console output or write to a file. 
+</p>
 
 <br>
-
 
 ## Personal
-On the more personal side. My pronounces are he and him, don't let that nickname fool you 😉. I'm also very interesed in music both listening and playing. Yes I do play an instrument 😄. I play an Ibanez AEG8EMH-OPN guitar. Which is half acoustic and half electric.
+👨 -> Pronounces are he and him<br>
+🎸 -> I play an Ibanez AEG8EMH-OPN guitar<br>
+📖 -> I enjoy reading self-development books<br>
+💭 -> Big fan of motivational speakers and quotes<br>
+🐺 -> Favorite animal is a wolf<br>
+☯ -> Yin yang enthousiast and I conider myself a Toaist<br> 
+
+### Favourite quote 
+> A man's eye seeks what can't be seen, yet it's there. It's hidden in the darkness, ready to be revealed.
 
 <br>
 
