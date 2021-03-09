@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cas-martens/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="cas-martens" height="30" /></a>
   <a href="https://www.behance.net/casmartens" target="blank"><img align="left" src="https://img.shields.io/badge/Behance-informational?style=for-the-badge&logo=Behance&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
-  <a href="https://www.instagram.com/cassieboy_2001/" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
+  <a href="https://www.instagram.com/cas.martens/" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=1769FF" alt="casmartens" height="30" /></a>
   <a href="mailto:devcassie@outlook.com" target="blank"><img align="left" src="https://img.shields.io/badge/Mail%20me-informational?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&color=0078D4" alt="casmartens" height="30" /></a>
 </p>
 
