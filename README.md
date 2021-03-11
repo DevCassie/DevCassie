@@ -20,7 +20,7 @@ One of those projects is called Castoe which is a Closed Source Discord Bot. Thi
 <br>
 
 ### Personal
-👨 -> Pronounces are he and him<br>
+👨 -> Pronouns are he and him<br>
 🎸 -> I play an Ibanez AEG8EMH-OPN guitar<br>
 📖 -> I enjoy reading self-development books<br>
 💭 -> Big fan of motivational speakers and quotes<br>
