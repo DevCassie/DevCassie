@@ -25,7 +25,7 @@ One of those projects is called Castoe which is a Closed Source Discord Bot. Thi
 📖 -> I enjoy reading self-development books<br>
 💭 -> Big fan of motivational speakers and quotes<br>
 🐺 -> Favorite animal is a wolf<br>
-☯ -> Yin yang enthousiast and I conider myself a Toaist<br> 
+☯ -> Yin yang enthusiast and I consider myself a Toaist<br> 
 
 ### Favourite quote 
 > A man's eye seeks what can't be seen, yet it's there. It's hidden in the darkness, ready to be revealed.
