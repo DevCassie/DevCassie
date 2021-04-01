@@ -17,8 +17,6 @@ I'm a 19 year old media design student with a passion for combining design and d
 One of those projects is called Castoe which is a Closed Source Discord Bot. This bot contains many features that can eventually be turned on or off with a web-dashboard that's written in ReactJS. However, since the bot itself is closed source, I've decided to create a small npm package which is open source. The open source npm package is called <a href="https://github.com/DevCassie/Castoe-Streamer">Castoe Streamer</a>. It's a logging utility to visually change the console output or write to a file. 
 </p>
 
-<br>
-
 ### Personal
 👨 -> Pronouns are he and him<br>
 🎸 -> I play an Ibanez AEG8EMH-OPN guitar<br>
@@ -27,8 +25,14 @@ One of those projects is called Castoe which is a Closed Source Discord Bot. Thi
 🐺 -> Favorite animal is a wolf<br>
 ☯ -> Yin yang enthusiast and I consider myself a Toaist<br> 
 
-### Favourite quote 
+### Favourite quotes 
 > A man's eye seeks what can't be seen, yet it's there. It's hidden in the darkness, ready to be revealed.
+
+> I'd rather create connections instead of contacts.
+
+> Silence is a source of great strength.
+
+> Those wo know do not talk. Those who talk do not know.
 
 <br>
 
